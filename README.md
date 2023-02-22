@@ -9,7 +9,6 @@
 - Name: Vinicius Pacheco
 - Age: 19 Years
 - University: UniCesumar (Software Engineer)
-- Living In: Panambi - Rio Grande do Sul, Brazil
  
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
