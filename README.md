@@ -1,14 +1,14 @@
 ## 👾 Vinicius Pacheco
 
 <div>
- <p>Hello! I'm Vinicius (nimdiido), a Full Stack Developer. I love web developmentand and always I try to learn new different technologies, Actualy i work with JavaScript (Node.JS, TypeScript, React) and i pretend to learn Java, Python and Go, for study purpose, learn new languagens and technologies is one of my favorite hobbies.</p>
+ <p>Hello! I'm Vinicius (nimdiido), a Full Stack Developer. I love web developmentand and always I try to learn new different technologies, Actualy i work with JavaScript, Typescript, HTML, CSS, React and Node.js. I pretend to learn Java, Python and Golang, for study purpose, learn new languagens and technologies is one of my favorite hobbies.</p>
 </div>
   
 ## 📓 About Me
 
 - Name: Vinicius Pacheco
 - Age: 19 Years
-- University: UniCesumar (Software Engineer)
+- University: UniCesumar (Software Engineering)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
