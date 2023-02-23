@@ -1,7 +1,7 @@
 ## 👾 Vinicius Pacheco
 
 <div>
- <p>Hello! I'm Vinicius (nimdiido), a Full Stack Developer. I love web developmentand and always I try to learn new different technologies, Actualy i work with JavaScript, Typescript, HTML, CSS, React, Node.js, Express, Git, MySQL and MongoDB. I pretend to learn Java, Python and Golang, for study purpose, learn new languagens and technologies is one of my favorite hobbies.</p>
+ <p>Hello! I'm Vinicius, a Full Stack Developer. I love web developmentand and always I try to learn new different technologies, Actualy i work with JavaScript, Typescript, HTML, CSS, React, Node.js, Express, Git, MySQL and MongoDB. I pretend to learn Java, Python and Golang, for study purpose, learn new languagens and technologies is one of my favorite hobbies.</p>
 </div>
   
 ## 📓 About Me
