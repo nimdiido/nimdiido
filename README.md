@@ -1,7 +1,7 @@
 ## 👾 Vinicius Pacheco
 
 <div>
- <p>Hello! I'm Vinicius, a Full Stack Developer. I love web developmentand and always I try to learn new different technologies, Actualy i work with JavaScript, Typescript, HTML, CSS, React, Node.js, Express, Git, MySQL and MongoDB. I pretend to learn Java, Python and Golang, for study purpose, learn new languagens and technologies is one of my favorite hobbies.</p>
+ <p>Hello, my name is Vinicius, and I'm a programmer with a strong passion for creating innovative and efficient solutions. I have experience with JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, Git, MySQL, and MongoDB. I'm eager to develop my skills and expertise in various programming languages and tools. I'm also a team player who is always looking to learn from others and contribute to a positive work environment. I'm excited about the opportunity to work with a dynamic team and make a meaningful impact.</p>
 </div>
   
 ## 📓 About Me
