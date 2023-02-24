@@ -1,14 +1,16 @@
 ## 👾 Vinicius Pacheco
 
 <div>
- <p>Hello, my name is Vinicius, and I'm a programmer with a strong passion for creating innovative and efficient solutions. I have experience with JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, Git, MySQL, and MongoDB. I'm eager to develop my skills and expertise in various programming languages and tools. I'm also a team player who is always looking to learn from others and contribute to a positive work environment. I'm excited about the opportunity to work with a dynamic team and make a meaningful impact.</p>
+ <p>Hello, my name is Vinicius, and I'm a programmer with a strong passion for creating innovative and efficient solutions. I have experience with JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, Git, MySQL, MongoDB. I'm eager to develop my skills and expertise in various programming languages and tools. I'm also a team player who is always looking to learn from others and contribute to a positive work environment. I'm excited about the opportunity to work with a dynamic team and make a meaningful impact.</p>
 </div>
   
 ## 📓 About Me
 
 - Name: Vinicius Pacheco
-- Age: 19 Years
-- University: UniCesumar (Software Engineering)
+- Age: 19 Years Old
+- Education: Software Engineering at UniCesumar
+- Hobbies: Develop, Games, Music, Books
+- Interpersonal Skills: Communication, Teamwork, Adaptability, Problem-Solving
  
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
