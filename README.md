@@ -1,20 +1,52 @@
 ## 👾 Vinicius Pacheco
 
-olá.
+Olá! Sou o Vinicius, estudante de Engenharia de Software.  
+Gosto de criar projetos pessoais, principalmente na área de backend e inteligência artificial.  
+Atualmente, estou focado em aprender cada vez mais e em buscar uma oportunidade para crescer e me especializar nessa área.
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre mim
 
-- **Name:** vinicius  
-- **Age:** 21  
-- **Education:** software engineering  
-- **Hobbies:** development, games, music, books  
-- **Interpersonal Skills:** massive dick
+- **Nome:** Vinicius Pacheco  
+- **Idade:** 21 anos  
+- **Formação:** Engenharia de Software  
+- **Hobbies:** Desenvolvimento, jogos, música & livros  
+
+### 🤝 Habilidades interpessoais
+- Comunicação clara e objetiva  
+- Trabalho em equipe  
+- Pensamento crítico  
+- Resolução de problemas  
+- Aprendizado contínuo  
+- Autonomia e proatividade  
+- Organização e responsabilidade
 
 ---
 
-## 💻 Tech Stack
+### 🚀 Atualmente
+
+- 📚 Cursando Engenharia de Software  
+- 🧠 Aprendendo mais sobre sistemas distribuídos e machine learning  
+- ⚙️ Desenvolvendo projetos backend e voltados para cloud  
+
+### 🎯 Objetivos
+
+- Tornar-me um engenheiro de software/backend sólido  
+- Aprofundar conhecimentos em cloud, containers e sistemas escaláveis  
+- Aplicar inteligência artificial e machine learning em projetos reais
+
+### 🧠 Interesses Técnicos
+
+- Backend e arquitetura de software
+- Sistemas distribuídos
+- Cloud e containers
+- Inteligência artificial aplicada
+
+
+---
+
+### 💻 Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40"
@@ -45,10 +77,16 @@ olá.
 
 ---
 
-## 🌐 connect with me
+### 🌐 Conecte-se comigo
 
 <div> 
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:nimdiido@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/nimdiido" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/nimdiido" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:nimdiido@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://instagram.com/nimdiido" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>  
 </div>
