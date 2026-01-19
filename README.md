@@ -24,16 +24,21 @@ Atualmente, estou focado em aprender cada vez mais e em buscar uma oportunidade 
 
 ---
 
+### 📌 Projetos em Destaque
+
+🐶 **Doggo** — Bot de Discord em Python com arquitetura modular, PostgreSQL, integrações com APIs externas e recursos de IA.  
+🔗 https://github.com/nimdiido/doggo
+
+🔩 **Filtragem de Parafusos** — Aplicação web para busca e filtragem de catálogo industrial com múltiplos critérios técnicos. Desenvolvido com Node.js, Express e MySQL.  
+🔗 https://github.com/nimdiido/filtragem
+
+---
+
 ### 🚀 Atualmente
 
 - 📚 Cursando Engenharia de Software  
 - 🧠 Aprendendo mais sobre sistemas distribuídos e machine learning  
 - ⚙️ Desenvolvendo projetos backend e voltados para cloud
-
-### 📌 Projeto em Destaque
-
-🐶 **Doggo** — Bot de Discord em Python com arquitetura modular, PostgreSQL, integrações com APIs externas e recursos de IA.  
-🔗 https://github.com/nimdiido/doggo
 
 ### 🎯 Objetivos
 
