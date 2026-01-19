@@ -28,7 +28,12 @@ Atualmente, estou focado em aprender cada vez mais e em buscar uma oportunidade 
 
 - 📚 Cursando Engenharia de Software  
 - 🧠 Aprendendo mais sobre sistemas distribuídos e machine learning  
-- ⚙️ Desenvolvendo projetos backend e voltados para cloud  
+- ⚙️ Desenvolvendo projetos backend e voltados para cloud
+
+### 📌 Projeto em Destaque
+
+🐶 **Doggo** — Bot de Discord em Python com arquitetura modular, PostgreSQL, integrações com APIs externas e recursos de IA.  
+🔗 https://github.com/nimdiido/doggo
 
 ### 🎯 Objetivos
 
