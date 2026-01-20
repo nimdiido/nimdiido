@@ -29,6 +29,9 @@ Atualmente, estou focado em aprender cada vez mais e em buscar uma oportunidade 
 🐶 **Doggo** — Bot de Discord em Python com arquitetura modular, PostgreSQL, integrações com APIs externas e recursos de IA.  
 🔗 https://github.com/nimdiido/doggo
 
+🎮 **EclipseBux** — Bot profissional para Discord com vendas automatizadas de Robux, pagamentos via PIX (Mercado Pago), entrega segura via Gamepass e arquitetura backend assíncrona em Python.  
+🔗 https://github.com/nimdiido/eclipsebux
+
 🔩 **Filtragem de Parafusos** — Aplicação web para busca e filtragem de catálogo industrial com múltiplos critérios técnicos. Desenvolvido com Node.js, Express e MySQL.  
 🔗 https://github.com/nimdiido/filtragem
 
