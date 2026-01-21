@@ -26,6 +26,9 @@ Atualmente, estou focado em aprender cada vez mais e em buscar uma oportunidade 
 
 ### 📌 Projetos em Destaque
 
+🎰 **Casino & Game Provider Integration** — Sistema backend transacional em Node.js/TypeScript que implementa integração real entre cassino e provider de jogos, com APIs REST seguras (HMAC), ledger financeiro, idempotência, rollback e simulação completa de apostas e pagamentos.  
+🔗 https://github.com/nimdiido/casino-integration
+
 🐶 **Doggo** — Bot de Discord em Python com arquitetura modular, PostgreSQL, integrações com APIs externas e recursos de IA.  
 🔗 https://github.com/nimdiido/doggo
 
