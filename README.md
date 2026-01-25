@@ -1,6 +1,6 @@
 ## 👾 Vinicius Pacheco
 
-Hi! I'm Vinicius, a Software Engineering student.  
+Hi! I'm Vinicius, a Software Engineering student focused on backend development, system integration, and scalable architectures.
 I enjoy building personal projects, mainly focused on backend development and artificial intelligence.  
 Currently, I'm focused on continuously learning and looking for opportunities to grow and specialize in this field.
 
@@ -19,8 +19,6 @@ Currently, I'm focused on continuously learning and looking for opportunities to
 - Critical thinking  
 - Problem solving  
 - Continuous learning  
-- Autonomy and proactivity  
-- Organization and responsibility 
 
 ---
 
@@ -40,17 +38,12 @@ Currently, I'm focused on continuously learning and looking for opportunities to
 
 ---
 
-### 🚀 Currently
+### 🚀 Current Focus & Goals
 
-- 📚 Studying Software Engineering  
-- 🧠 Learning more about distributed systems and machine learning  
-- ⚙️ Developing backend and cloud-oriented projects  
-
-### 🎯 Goals
-
-- Become a solid software / backend engineer  
-- Deepen knowledge in cloud, containers, and scalable systems  
-- Apply artificial intelligence and machine learning in real-world projects  
+- Studying Software Engineering  
+- Deepening knowledge in backend, cloud, and distributed systems  
+- Building real-world projects involving integrations, payments, and automation  
+- Aiming to become a solid backend / software engineer  
 
 ### 🧠 Technical Interests
 
