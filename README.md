@@ -1,68 +1,68 @@
 ## 👾 Vinicius Pacheco
 
-Olá! Sou o Vinicius, estudante de Engenharia de Software.  
-Gosto de criar projetos pessoais, principalmente na área de backend e inteligência artificial.  
-Atualmente, estou focado em aprender cada vez mais e em buscar uma oportunidade para crescer e me especializar nessa área.
+Hi! I'm Vinicius, a Software Engineering student.  
+I enjoy building personal projects, mainly focused on backend development and artificial intelligence.  
+Currently, I'm focused on continuously learning and looking for opportunities to grow and specialize in this field.
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-- **Nome:** Vinicius Pacheco  
-- **Idade:** 21 anos  
-- **Formação:** Engenharia de Software  
-- **Hobbies:** Desenvolvimento, jogos, música & livros  
+- **Name:** Vinicius Pacheco  
+- **Age:** 21  
+- **Education:** Software Engineering  
+- **Hobbies:** Development, gaming, music & books  
 
-### 🤝 Habilidades interpessoais
-- Comunicação clara e objetiva  
-- Trabalho em equipe  
-- Pensamento crítico  
-- Resolução de problemas  
-- Aprendizado contínuo  
-- Autonomia e proatividade  
-- Organização e responsabilidade
+### 🤝 Soft Skills
+- Clear and effective communication  
+- Teamwork  
+- Critical thinking  
+- Problem solving  
+- Continuous learning  
+- Autonomy and proactivity  
+- Organization and responsibility 
 
 ---
 
-### 📌 Projetos em Destaque
+### 📌 Featured Projects
 
-🎰 **Casino & Game Provider Integration** — Sistema backend transacional em Node.js/TypeScript que implementa integração real entre cassino e provider de jogos, com APIs REST seguras (HMAC), ledger financeiro, idempotência, rollback e simulação completa de apostas e pagamentos.  
+🎰 **Casino & Game Provider Integration** — Transactional backend system built with Node.js/TypeScript that implements real integration between casino and game providers, featuring secure REST APIs (HMAC), financial ledger, idempotency, rollback mechanisms, and full simulation of bets and payouts.  
 🔗 https://github.com/nimdiido/casino-integration
 
-🐶 **Doggo** — Bot de Discord em Python com arquitetura modular, PostgreSQL, integrações com APIs externas e recursos de IA.  
+🐶 **Doggo** — Discord bot built in Python with a modular architecture, PostgreSQL, integrations with external APIs, and AI-powered features.  
 🔗 https://github.com/nimdiido/doggo
 
-🎮 **EclipseBux** — Bot profissional para Discord com vendas automatizadas de Robux, pagamentos via PIX (Mercado Pago), entrega segura via Gamepass e arquitetura backend assíncrona em Python.  
+🎮 **EclipseBux** — Professional Discord bot for automated Robux sales, PIX payments (Mercado Pago), secure delivery via Gamepass, and an asynchronous backend architecture in Python.  
 🔗 https://github.com/nimdiido/eclipsebux
 
-🔩 **Filtragem de Parafusos** — Aplicação web para busca e filtragem de catálogo industrial com múltiplos critérios técnicos. Desenvolvido com Node.js, Express e MySQL.  
+🔩 **Bolt Filtering** — Web application for searching and filtering an industrial catalog with multiple technical criteria. Built using Node.js, Express, and MySQL.  
 🔗 https://github.com/nimdiido/filtragem
 
 ---
 
-### 🚀 Atualmente
+### 🚀 Currently
 
-- 📚 Cursando Engenharia de Software  
-- 🧠 Aprendendo mais sobre sistemas distribuídos e machine learning  
-- ⚙️ Desenvolvendo projetos backend e voltados para cloud
+- 📚 Studying Software Engineering  
+- 🧠 Learning more about distributed systems and machine learning  
+- ⚙️ Developing backend and cloud-oriented projects  
 
-### 🎯 Objetivos
+### 🎯 Goals
 
-- Tornar-me um engenheiro de software/backend sólido  
-- Aprofundar conhecimentos em cloud, containers e sistemas escaláveis  
-- Aplicar inteligência artificial e machine learning em projetos reais
+- Become a solid software / backend engineer  
+- Deepen knowledge in cloud, containers, and scalable systems  
+- Apply artificial intelligence and machine learning in real-world projects  
 
-### 🧠 Interesses Técnicos
+### 🧠 Technical Interests
 
-- Backend e arquitetura de software
-- Sistemas distribuídos
-- Cloud e containers
-- Inteligência artificial aplicada
+- Backend and software architecture  
+- Distributed systems  
+- Cloud and containers  
+- Applied artificial intelligence  
 
 
 ---
 
-### 💻 Tecnologias
+### 💻 Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40"
@@ -93,7 +93,7 @@ Atualmente, estou focado em aprender cada vez mais e em buscar uma oportunidade 
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with Me
 
 <div> 
   <a href="https://www.linkedin.com/in/nimdiido" target="_blank">
