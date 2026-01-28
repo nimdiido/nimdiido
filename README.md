@@ -7,7 +7,7 @@ I enjoy working on real-world backend problems involving payments, data consiste
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
 - **Name:** Vinicius Pacheco  
 - **Location:** Brazil  
