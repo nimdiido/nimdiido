@@ -1,49 +1,50 @@
 ## 👾 Vinicius Pacheco
 
-Hi! I'm Vinicius, a Software Engineering student focused on backend development, system integration, and scalable architectures.
-I enjoy building personal projects, mainly focused on backend development and artificial intelligence.  
-Currently, I'm focused on continuously learning and looking for opportunities to grow and specialize in this field.
+Backend-focused Software Engineer with hands-on experience building transactional systems, REST APIs, and distributed architectures using Python, Node.js, and TypeScript.  
+Software Engineering student with strong interest in system integration, scalability, and cloud-based solutions.
+
+I enjoy working on real-world backend problems involving payments, data consistency, idempotency, and automation, always prioritizing clean architecture and maintainable code.
 
 ---
 
 ## 🧠 About Me
 
 - **Name:** Vinicius Pacheco  
-- **Age:** 21  
-- **Education:** Software Engineering  
-- **Hobbies:** Development, gaming, music & books  
-
-### 🤝 Soft Skills
-- Clear and effective communication  
-- Teamwork  
-- Critical thinking  
-- Problem solving  
-- Continuous learning  
+- **Location:** Brazil  
+- **Education:** Software Engineering (in progress)  
+- **Focus:** Backend development & system architecture  
 
 ---
 
 ### 📌 Featured Projects
 
-🎰 **Casino & Game Provider Integration** — Transactional backend system built with Node.js/TypeScript that implements real integration between casino and game providers, featuring secure REST APIs (HMAC), financial ledger, idempotency, rollback mechanisms, and full simulation of bets and payouts.  
-🔗 https://github.com/nimdiido/casino-integration
+🎰 **Casino & Game Provider Integration**  
+Transactional backend system built with Node.js and TypeScript, simulating real-world integration between a casino platform and a game provider.  
+Features secure REST APIs (HMAC), financial ledger, idempotent transactions, rollback rules, and data consistency guarantees.  
+- https://github.com/nimdiido/casino-integration
 
-🐶 **Doggo** — Discord bot built in Python with a modular architecture, PostgreSQL, integrations with external APIs, and AI-powered features.  
-🔗 https://github.com/nimdiido/doggo
+🐶 **Doggo**  
+Scalable Python-based backend for a Discord bot with modular architecture, PostgreSQL, async I/O, external API integrations, and AI-powered features.  
+Designed with a strong focus on performance, organization, and maintainability.  
+- https://github.com/nimdiido/doggo
 
-🎮 **EclipseBux** — Professional Discord bot for automated Robux sales, PIX payments (Mercado Pago), secure delivery via Gamepass, and an asynchronous backend architecture in Python.  
-🔗 https://github.com/nimdiido/eclipsebux
+🎮 **EclipseBux**  
+Asynchronous backend system in Python for automated Robux sales, including PIX payments (Mercado Pago), transactional workflows, and secure delivery via Roblox Gamepass.  
+Built using layered architecture and async processing.  
+- https://github.com/nimdiido/eclipsebux
 
-🔩 **Bolt Filtering** — Web application for searching and filtering an industrial catalog with multiple technical criteria. Built using Node.js, Express, and MySQL.  
-🔗 https://github.com/nimdiido/filtragem
+🔩 **Bolt Filtering**  
+Web application for searching and filtering an industrial product catalog using Node.js, Express, and MySQL, supporting multiple technical filtering criteria and optimized queries.  
+- https://github.com/nimdiido/filtragem
 
 ---
 
-### 🚀 Current Focus & Goals
+### 🚀 Current Focus
 
-- Studying Software Engineering  
-- Deepening knowledge in backend, cloud, and distributed systems  
-- Building real-world projects involving integrations, payments, and automation  
-- Aiming to become a solid backend / software engineer  
+- Backend engineering and software architecture  
+- Distributed systems and microservices  
+- Cloud fundamentals and containerization  
+- Building production-like systems with real constraints  
 
 ### 🧠 Technical Interests
 
@@ -51,7 +52,6 @@ Currently, I'm focused on continuously learning and looking for opportunities to
 - Distributed systems  
 - Cloud and containers  
 - Applied artificial intelligence  
-
 
 ---
 
