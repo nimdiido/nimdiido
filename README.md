@@ -18,6 +18,11 @@ I enjoy working on real-world backend problems involving payments, data consiste
 
 ### 📌 Featured Projects
 
+⚡ **Real-Time ML Risk Scoring Platform**  
+High-performance distributed system for real-time transaction risk assessment using Go, Python, and ensemble machine learning models.
+Features parallel ML inference (PyTorch + TensorFlow), idempotency with Redis, PostgreSQL audit trail, decision engine, and production-ready containerized architecture.
+- https://github.com/nimdiido/risk-platform
+
 🎰 **Casino & Game Provider Integration**  
 Transactional backend system built with Node.js and TypeScript, simulating real-world integration between a casino platform and a game provider.  
 Features secure REST APIs (HMAC), financial ledger, idempotent transactions, rollback rules, and data consistency guarantees.  
