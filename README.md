@@ -1,9 +1,18 @@
 ## 👾 Vinicius Pacheco
 
-Backend-focused Software Engineer with hands-on experience building transactional systems, REST APIs, and distributed architectures using Python, Node.js, and TypeScript.  
-Software Engineering student with strong interest in system integration, scalability, and cloud-based solutions.
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Engineer-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applied%20AI-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Production%20AI-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML%20Inference-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-B22222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-I enjoy working on real-world backend problems involving payments, data consistency, idempotency, and automation, always prioritizing clean architecture and maintainable code.
+AI Engineer focused on applied artificial intelligence, production AI systems, ML inference, and scalable backend architecture.  
+I build intelligent applications with Python, Go, APIs, distributed systems, and containerized infrastructure, with a strong focus on reliability, maintainability, and real-world deployment.
+
+Specializing in production-ready AI applications, model integration, intelligent automation, and backend systems that support practical machine learning workflows.
 
 ---
 
@@ -12,82 +21,90 @@ I enjoy working on real-world backend problems involving payments, data consiste
 - **Name:** Vinicius Pacheco  
 - **Location:** Brazil  
 - **Education:** Software Engineering (in progress)  
-- **Focus:** Backend development & system architecture  
+- **Focus:** AI Engineering, production AI systems, and scalable backend architecture  
 
 ---
 
 ### 📌 Featured Projects
 
 ⚡ **Real-Time ML Risk Scoring Platform**  
-High-performance distributed system for real-time transaction risk assessment using Go, Python, and ensemble machine learning models.
-Features parallel ML inference (PyTorch + TensorFlow), idempotency with Redis, PostgreSQL audit trail, decision engine, and production-ready containerized architecture.
+Production-oriented AI system for real-time transaction risk assessment using Go, Python, and ensemble machine learning models.  
+Features parallel ML inference, decision orchestration, Redis-based idempotency, PostgreSQL audit trail, and containerized multi-service architecture.  
 - https://github.com/nimdiido/risk-platform
 
-🎰 **Casino & Game Provider Integration**  
-Transactional backend system built with Node.js and TypeScript, simulating real-world integration between a casino platform and a game provider.  
-Features secure REST APIs (HMAC), financial ledger, idempotent transactions, rollback rules, and data consistency guarantees.  
-- https://github.com/nimdiido/casino-integration
-
 🐶 **Doggo**  
-Scalable Python-based backend for a Discord bot with modular architecture, PostgreSQL, async I/O, external API integrations, and AI-powered features.  
-Designed with a strong focus on performance, organization, and maintainability.  
+Scalable Python-based application with intelligent features, async I/O, PostgreSQL, and external API integrations.  
+Designed with modular architecture and production-minded engineering, highlighting automation workflows, backend reliability, and maintainable system design.  
 - https://github.com/nimdiido/doggo
 
-🎮 **EclipseBux**  
-Asynchronous backend system in Python for automated Robux sales, including PIX payments (Mercado Pago), transactional workflows, and secure delivery via Roblox Gamepass.  
-Built using layered architecture and async processing.  
-- https://github.com/nimdiido/eclipsebux
+🎰 **Casino & Game Provider Integration**  
+Distributed backend integration project built with Node.js and TypeScript, focused on secure APIs, idempotent workflows, and consistency across services.  
+Demonstrates strong engineering foundations for building reliable systems, complex integrations, and production-grade backend applications.  
+- https://github.com/nimdiido/casino-integration
 
-🔩 **Bolt Filtering**  
-Web application for searching and filtering an industrial product catalog using Node.js, Express, and MySQL, supporting multiple technical filtering criteria and optimized queries.  
-- https://github.com/nimdiido/filtragem
+🎮 **EclipseBux**  
+Asynchronous backend system in Python for automated Robux sales, integrating payments, external APIs, and secure delivery workflows.  
+Built with layered architecture and async processing, demonstrating experience with automation, event-driven logic, and production-style system design.  
+- https://github.com/nimdiido/eclipsebux
 
 ---
 
 ### 🚀 Current Focus
 
-- Backend engineering and software architecture  
-- Distributed systems and microservices  
-- Cloud fundamentals and containerization  
-- Building production-like systems with real constraints  
+- AI engineering and applied artificial intelligence  
+- Production AI systems and ML inference workflows  
+- Intelligent applications and automation  
+- Distributed systems, scalable APIs, and backend architecture  
+- Cloud fundamentals and containerized deployments  
 
-### 🧠 Technical Interests
+### 🧠 Core Strengths
 
-- Backend and software architecture  
-- Distributed systems  
-- Cloud and containers  
-- Applied artificial intelligence  
+- Production AI Systems  
+- ML Inference & Model Integration  
+- Scalable Backend APIs  
+- Distributed Systems  
+- Intelligent Automation  
+- Containerized Deployments  
 
 ---
 
-### 💻 Technologies
+### 💻 Tech Stack
 
-<div style="display: inline_block"><br>
+**AI / ML**  
+<p>
   <img align="center" alt="python" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="go" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="node" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="pytorch" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="tensorflow" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="linux" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="docker" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="kubernetes" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="bash" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+</p>
+
+Python • PyTorch • TensorFlow
+
+**Backend**  
+<p>
+  <img align="center" alt="go" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="node" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="postgresql" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="redis" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-  <img align="right" alt="foto" height="150"
-    src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/519.png">
-</div>
+</p>
+
+Go • Node.js • PostgreSQL • Redis
+
+**Infrastructure**  
+<p>
+  <img align="center" alt="docker" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="linux" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</p>
+
+Docker • Linux
 
 ---
 
@@ -100,7 +117,4 @@ Web application for searching and filtering an industrial product catalog using 
   <a href="mailto:nimdiido@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://instagram.com/nimdiido" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>  
 </div>
