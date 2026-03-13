@@ -105,6 +105,7 @@ Go • Node.js • PostgreSQL • Redis
 </p>
 
 Docker • Linux
+<img align="right" alt="foto" height="150" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/519.png"> </div>
 
 ---
 
